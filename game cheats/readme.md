@@ -1,2 +1,2 @@
 
-# These Exploits Work on Certain Websites, others may not work
+# These Exploits Work on Certain Websites, not guaranteed to work on every website.
