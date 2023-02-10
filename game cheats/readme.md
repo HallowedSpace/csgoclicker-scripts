@@ -1,2 +1,2 @@
-# Alert
-The Money Per Click Exploit Only works on select websites.
+
+# These Exploits Work on Certain Websites, others may not work
